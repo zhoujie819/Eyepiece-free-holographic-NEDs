@@ -1,2 +1,2 @@
-# Eyepiece-free-Holographic-NED
+# Pupil-Directed-Holographic-NEDs
 A novel multi-aperture pupil optimization algorithm tailored for lensless holographic NEDs, which significantly enhances reconstructed image quality and depth perception.
